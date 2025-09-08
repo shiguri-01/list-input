@@ -1,0 +1,5 @@
+{
+  "name": "List Input",
+  "description": "A React component that allows users to input a list of strings, visually similar to the tag input field in Notion. Users can add tags by pressing Enter or comma, and remove them by clicking an 'x' or using the backspace key.",
+  "requestFramePermissions": []
+}
